@@ -35,4 +35,4 @@ Then, the model is trained for 3 epochs and loss is calculated to monitor the pe
 The model is then validated using the validation data and analysed the perfomances of both the models.
 Metrics like **Accuracy score, F1 score, precision, recall, ROC curves and AUC scores** have been used to measure the performances.
 
-# Implemented by Sireesha Chimbili
+# Implemented by Sireesha Chimbili, Anjali Yadagiri
