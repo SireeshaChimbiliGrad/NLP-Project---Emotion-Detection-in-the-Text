@@ -8,7 +8,7 @@ The Project is chosen to do the comparative Analysis of the performances of BERT
 The dataset is been collected from Hugging Face Hub named go_emotions.
 The dataset contains 28 emotions including Neutral.
 The emotions considered are 
-# ['admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring', 'confusion', 'curiosity', 'desire', 'disappointment', 'disapproval', 'disgust', 'embarrassment', 'excitement', 'fear', 'gratitude', 'grief', 'joy', 'love', 'nervousness', 'optimism', 'pride', 'realization', 'relief', 'remorse', 'sadness', 'surprise', 'neutral'] 
+**['admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring', 'confusion', 'curiosity', 'desire', 'disappointment', 'disapproval', 'disgust', 'embarrassment', 'excitement', 'fear', 'gratitude', 'grief', 'joy', 'love', 'nervousness', 'optimism', 'pride', 'realization', 'relief', 'remorse', 'sadness', 'surprise', 'neutral'] **
 As, it's difficult to handle all the 28 emotions, they have been categorized in a optimised way to 7 categories and made the process easier to understand and handle.
 The categories are these:
 # {
