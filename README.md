@@ -1,6 +1,10 @@
 # NLP-Project---Emotion-Detection-in-the-Text
 This is a repository for the NLP Semester Project where we dealt with emotion detection in the text using BERT and RoBERTa Pre-trained encoder models and fine-tuned the models for the better performance and compared the model performances of BERT and RoBERTa using different metrics.
+
+
 The Project is chosen to do the comparative Analysis of the performances of BERT and RoBERTa Pre-trained encoder models in recognizing/detecting the emotions underlying in the text.
+
+
 The dataset is been collected from Hugging Face Hub named go_emotions.
 The dataset contains 28 emotions including Neutral.
 The emotions considered are ['admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring', 'confusion', 'curiosity', 'desire', 'disappointment', 'disapproval', 'disgust', 'embarrassment', 'excitement', 'fear', 'gratitude', 'grief', 'joy', 'love', 'nervousness', 'optimism', 'pride', 'realization', 'relief', 'remorse', 'sadness', 'surprise', 'neutral'] 
